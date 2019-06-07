@@ -6,6 +6,11 @@
     "publisher": "tuguldurio",
     "author": {"name": "tuguldurio"},
     "license": "GPLv3",
+    "icon": "images/icon.jpg",
+    "galleryBanner": {
+        "color": "#16171d",
+        "theme": "dark"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/tuguldurio/monokai-sweet-dark"
