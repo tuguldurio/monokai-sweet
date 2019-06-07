@@ -3,16 +3,30 @@
     "displayName": "Monokai Sweet Dark",
     "description": "s",
     "version": "0.0.1",
+    "publisher": "tuguldurio",
+    "author": {"name": "tuguldurio"},
+    "license": "GPLv3",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tuguldurio/monokai-sweet-dark"
+    },
+    "homepage": "https://github.com/tuguldurio/monokai-sweet-dark",
     "engines": {
         "vscode": "^1.35.0"
     },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "theme",
+        "dark",
+        "monokai",
+        "vibrant"
+    ],
     "contributes": {
         "themes": [
             {
-                "label": "monokai sweet dark",
+                "label": "Monokai Sweet Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/monokai-sweet-dark-color-theme.json"
             }
