@@ -1,0 +1,21 @@
+{
+    "name": "monokai-sweet-dark",
+    "displayName": "Monokai Sweet Dark",
+    "description": "s",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "monokai sweet dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/monokai-sweet-dark-color-theme.json"
+            }
+        ]
+    }
+}
