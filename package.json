@@ -1,8 +1,8 @@
 {
     "name": "monokai-sweet-dark",
     "displayName": "Monokai Sweet Dark",
-    "description": "s",
-    "version": "0.0.1",
+    "description": "Vibrant dark monokai based theme which is aimed to be minimal looking.",
+    "version": "0.0.2",
     "publisher": "tuguldurio",
     "author": {"name": "tuguldurio"},
     "license": "GPLv3",
@@ -10,7 +10,7 @@
         "type": "git",
         "url": "https://github.com/tuguldurio/monokai-sweet-dark"
     },
-    "homepage": "https://github.com/tuguldurio/monokai-sweet-dark",
+    "homepage": "https://github.com/tuguldurio/monokai-sweet-dark/blob/master/README.md",
     "engines": {
         "vscode": "^1.35.0"
     },
