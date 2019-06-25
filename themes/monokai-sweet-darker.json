@@ -1,5 +1,5 @@
 {
-	"name": "sweet dark monokai",
+	"name": "monokai sweet darker",
 	"type": "dark",
 	"colors": {
 		"activityBar.background": "#16171d",
@@ -35,7 +35,7 @@
 		// "editorGroupHeader.tabsBorder": "#1d1f23",
 		// "tab.activeBackground": "#2c313a", // no use
 		"tab.border": "#16171D",
-		"tab.activeBorder": "#484a50",
+		"tab.activeBorder": "#80138E",
 		"tab.inactiveBackground": "#16171D",
 		"input.background": "#1d1f23",
 		// "list.activeSelectionBackground": "#2c313a",

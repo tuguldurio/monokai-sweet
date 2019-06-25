@@ -33,7 +33,12 @@
             {
                 "label": "Monokai Sweet Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/monokai-sweet-dark-color-theme.json"
+                "path": "./themes/monokai-sweet-dark.json"
+            },
+            {
+                "label": "Monokai Sweet Darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/monokai-sweet-darker.json"
             }
         ]
     }
