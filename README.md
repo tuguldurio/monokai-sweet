@@ -2,4 +2,4 @@
 
 Vibrant dark monokai based theme which is aimed to be minimal looking.
 
-![](images/ss.png)
+![](ss.png)
